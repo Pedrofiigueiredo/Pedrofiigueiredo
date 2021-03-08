@@ -1,4 +1,9 @@
-### Hi there 👋
+### Pedro Figueiredo Dias
+
+- 🎓 Ciência da Computação no Mack-SP
+- 📑 [Medium](https://medium.com/@mnopedrodias)
+- 🔵 [LinkedIn](https://linkedin.com/in/mnopedrofigueiredo)
+- ⌨️ **C#**, **.NET**, **JS**, **TS**, **Node.js**, **MongoDB**, **Postgres**, **Elixir**
 
 <!--
 **Pedrofiigueiredo/Pedrofiigueiredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofiigueiredo&layout=compact)](https://github.com/Pedrofiigueiredo/Pedrofiigueiredo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrofiigueiredo&langs_count=8)](https://github.com/Pedrofiigueiredo)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrofiigueiredo&langs_count=5)](https://github.com/Pedrofiigueiredo)
 -->
